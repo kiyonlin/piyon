@@ -9,7 +9,7 @@ setup(
     version=VERSION,
 
     author='kiyon',
-    email='kiyonlin@gmail.com',
+    author_email='kiyonlin@gmail.com',
     url='https://github.com/kiyonlin/piyon',
 
     packages=find_packages('src'),

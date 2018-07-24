@@ -6,5 +6,5 @@ A tiny cli to create a python project with pytest and basic pytest plugins.
 pip3 install piyon
 piyon project_name
 cd project_name
-python setup.py test
+python3 setup.py test
 ```
